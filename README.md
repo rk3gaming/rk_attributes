@@ -5,12 +5,13 @@ https://youtu.be/blZvuL6m2LA
 https://discord.gg/Zw3HauDnvs
 
 ## **Dependencies**
-oxmysql
-ox_lib
-es_extended or qb-core
+- oxmysql
+- ox_lib
+- es_extended or qb-core
 
 ## **Techstack**
-Svelte5
-Tailwindcss 3
-Vite
-PNPM
+- Svelte5
+- Tailwindcss 3
+- Vite
+- pnpm
+- CfxLua
