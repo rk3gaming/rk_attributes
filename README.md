@@ -15,3 +15,5 @@ https://discord.gg/Zw3HauDnvs
 - Vite
 - pnpm
 - CfxLua
+
+fsg likes men
